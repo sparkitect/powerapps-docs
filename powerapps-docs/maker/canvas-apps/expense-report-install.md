@@ -231,7 +231,7 @@ This list stores the line items that are associated with each expense report.
 1. In a web browser, go to [Power Apps](https://make.powerapps.com).
 1. Sign in with the same credentials that you used to sign up.
 1. From the left-pane, select **Apps**.
-1. Select **Import package**.
+1. Select **Import canvas app**.
 
     ![Import package screen](./media/expense-report-install/import-package.png)
 
